@@ -1,0 +1,10 @@
+nb_layers,2
+nb_filters,32 48 64
+nb_hidden,64
+lr,0.00005
+filterwidth,5
+nb_dense,32
+conv_stride,1 1 2
+pool_stride,1 2 2
+maxw,1250
+maxh,50
